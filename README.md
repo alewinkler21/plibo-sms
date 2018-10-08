@@ -32,6 +32,12 @@ To get started with using hawk, require hawk.core in your project:
 (plibo/send-sms! client source-number destiny-number text)
 ```
 
+**Note**
+
+*destiny-number*: can be a number (as a string) or a list of numbers (strings):
+
+"+59899112233" or ["+59899112233" "+59899112234"]
+
 #### Check SMS status
 
 ```
