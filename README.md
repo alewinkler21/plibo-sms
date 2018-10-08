@@ -13,7 +13,7 @@ To install, add the following dependency to your project.clj file:
 
 ## Usage
 
-To get started with using hawk, require hawk.core in your project:
+To get started with using plibo-sms, require plibo-sms.client in your project:
 
 ```
 (ns plibosms.sample
