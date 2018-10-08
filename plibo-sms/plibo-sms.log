@@ -1,8 +1,0 @@
-[2018-10-07 21:35:48,715][nREPL-worker-2][ERROR] - [b83215ce-e40b-4a9a-b05f-3759b4da7086]Status: 401 - Could not verify your access level for that URL.
-You have to login with proper credentials
-[2018-10-07 21:36:58,696][nREPL-worker-5][ERROR] - [b83215ce-e40b-4a9a-b05f-3759b4da7086]Status: 400 - {:src "+59899691341", :dst "+59899694853<+59899694852", :api_id "43c4cb6c-ca92-11e8-bbfd-02af11be3b72", :error "Insufficient credits"}
-[2018-10-07 21:47:01,048][main][ERROR] - [6ceb8407-602f-42df-b79a-66855d75a562]Status: 401 - Could not verify your access level for that URL.
-You have to login with proper credentials
-[2018-10-07 21:47:01,856][main][ERROR] - [6ceb8407-602f-42df-b79a-66855d75a562]Status: 401 - Could not verify your access level for that URL.
-You have to login with proper credentials
-[2018-10-07 21:49:24,331][main][ERROR] - [9dfc952c-6798-49f9-b735-3ed04a272b9c]Status: 400 - {:src "+59899112233", :dst "+59899112234", :api_id "00232604-ca94-11e8-9746-060740e7e786", :error "Destination Phone Numbers need to be verified. Please go to https://manage.plivo.com/sandbox-numbers/ to verify them."}
