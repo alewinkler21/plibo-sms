@@ -1,4 +1,4 @@
-(defproject plibo-sms "0.1.0-SNAPSHOT"
+(defproject plibo-sms "0.1.0"
   :description "plibo SMS library"
   :url "https://github.com/alewinkler21"
   :license {:name "Eclipse Public License"
